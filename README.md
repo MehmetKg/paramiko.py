@@ -1,0 +1,1 @@
+Python paramiko kütphansi , SSHv2 protokol 2'nin saf Python  (3.6+) uygulamasıdır ve hem istemci hem de sunucu işlevselliği sağlar. Sağlar üst düzey SSH kütüphanesi Fabric için temel, Çalıştırma gibi yaygın istemci kullanım durumları için kullanmanızı önerdiğimiz şey budur. Uzak kabuk komutları veya dosya aktarımı.
