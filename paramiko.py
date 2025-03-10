@@ -10,7 +10,7 @@ def sendCommand(ssh, command):
 ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
-ip = '127.0.0.1'  # Kendi makinen
+ip = 'target_ip_adress'  # Kendi makinen
 port = 22 # SSH portu
 username = 'kendi_kullanıcı_adın'
 password = 'kendi_şifren'
